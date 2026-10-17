@@ -25,3 +25,6 @@ aef567fd7a500b5ea0baac4bc34d5d24af4eb65bfef716bd86fb5e5de7371cd1  yuexin-cat/yue
 48ebb3dc356bd10dc82ae285412f3d04d8366cb3b3a152c2f5738851ccfe764e  yuexin-cat/yuexin-cat-06.zip
 1ab1c20638849ca8e932c9ac400020f5e11d9c12bc77ae3584c6df5e8977034a  yuexin-cat/yuexin-cat-07.zip
 323d023d4636b477abacf6c12714b66efadbcb4a357d756547ea0a30db184fb3  yuexin-cat/yuexin-cat-08.zip
+
+845f2a5eb045f4c21af9f8810a1a92be79472d0c72743adee69d9757e342caa7  qunyou-pig-complete.zip
+079c23f185474bc073ad26de479f3cccfb091be2dda85af6c07146c891bd9ae3  yuexin-cat-complete.zip
