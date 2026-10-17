@@ -9,7 +9,7 @@
 | 群友猪 | 1,357 | 约 279 MB | [下载群友猪完整 ZIP](https://github.com/Smi1e512/qunyou-pig-emojis/releases/download/2026-10-17-complete/qunyou-pig-complete.zip) |
 | 月薪猫（月薪喵） | 887 | 约 106 MB | [下载月薪猫完整 ZIP](https://github.com/Smi1e512/qunyou-pig-emojis/releases/download/2026-10-17-complete/yuexin-cat-complete.zip) |
 
-[打开 Releases 发布页](https://github.com/Smi1e512/qunyou-pig-emojis/releases/tag/2026-10-17-complete)。完整 ZIP 内含所有表情及来源目录，**不是把旧分包 ZIP 套在一个外层 ZIP 中**。
+[打开 Releases 发布页](https://github.com/Smi1e512/qunyou-pig-emojis/releases/tag/2026-10-17-complete)。完整 ZIP 内直接包含所有表情文件及来源目录，解压后即可使用。
 
 ## 预览与逐文件目录
 
